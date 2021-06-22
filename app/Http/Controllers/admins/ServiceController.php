@@ -23,8 +23,5 @@ class ServiceController extends Controller
        $service->description_en = $request->description_en ;
        $service->company_id = $request->company_id ;
        $service->save() ;
-
-       dd($service);
-
    }
 }
