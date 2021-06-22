@@ -4,7 +4,7 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="about-img-box">
-              <img src="{{asset('site/assets/img/slide-about-1.jpg')}}" alt="" class="img-fluid">
+              <img src="{{asset('site/assets/img/electrical-title.jpg')}}" alt="" class="img-fluid">
             </div>
             <div class="sinse-box">
               <h3 class="sinse-title">Tesla Electrical
@@ -17,7 +17,7 @@
           <div class="col-md-12 section-t8">
             <div class="row">
               <div class="col-md-6 col-lg-5">
-                <img src="{{asset('site/assets/img/about-2.jpg')}}" alt="" class="img-fluid">
+                <img  src="{{asset('site/assets/img/electrical-about.jpg')}}" alt="" class="img-fluid border rounded">
               </div>
               <div class="col-lg-2  d-none d-lg-block">
                 <div class="title-vertical d-flex justify-content-start">
@@ -31,7 +31,7 @@
                 <p class="color-text-a">
                 @lang('title.tesla_electrical')
                 </p>
-                
+
               </div>
             </div>
           </div>
@@ -39,4 +39,3 @@
       </div>
     </section>
 
-  

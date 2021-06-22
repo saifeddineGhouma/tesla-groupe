@@ -2,7 +2,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <nav class="nav-footer">
+          <nav class="nav-footer" style="display: none;">
             <ul class="list-inline">
               <li class="list-inline-item">
                 <a href="#">Home</a>
@@ -21,33 +21,20 @@
               </li>
             </ul>
           </nav>
-          <div class="socials-a">
+          <div class="socials-a" style="display: none;">
             <ul class="list-inline">
               <li class="list-inline-item">
                 <a href="#">
                   <i class="fa fa-facebook" aria-hidden="true"></i>
                 </a>
               </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fa fa-twitter" aria-hidden="true"></i>
-                </a>
-              </li>
+
               <li class="list-inline-item">
                 <a href="#">
                   <i class="fa fa-instagram" aria-hidden="true"></i>
                 </a>
               </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fa fa-pinterest-p" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fa fa-dribbble" aria-hidden="true"></i>
-                </a>
-              </li>
+
             </ul>
           </div>
           <div class="copyright-footer">

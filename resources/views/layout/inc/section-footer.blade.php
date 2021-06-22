@@ -9,17 +9,16 @@
             </div>
             <div class="w-body-a">
               <p class="w-text-a color-text-a">
-                Enim minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip exea commodo consequat duis
-                sed aute irure.
+              Tesla Group is a set of companies in full expansion, specialized mainly
               </p>
             </div>
             <div class="w-footer-a">
               <ul class="list-unstyled">
                 <li class="color-a">
-                  <span class="color-text-a">Phone .</span> contact@example.com
+                  <span class="color-text-a"> Email .</span> contact@tesla-groupe.com
                 </li>
                 <li class="color-a">
-                  <span class="color-text-a">Email .</span> +54 356 945234
+                  <span class="color-text-a"> Phone .</span> +216 50 618 607
                 </li>
               </ul>
             </div>
@@ -34,18 +33,18 @@
               <div class="w-body-a">
                 <ul class="list-unstyled">
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Tesla Electrical </a>
+                    <i class="fa fa-angle-right"></i> <a href="{{route('tesla.electrical.about')}}">Tesla Electrical </a>
                   </li>
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Tesla Consulting </a>
+                    <i class="fa fa-angle-right"></i> <a href="{{route('tesla.consulting.about')}}">Tesla Consulting </a>
                   </li>
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Tesla Plastic</a>
+                    <i class="fa fa-angle-right"></i> <a href="{{route('tesla.plast.about')}}">Tesla Plastic</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Tesla Trading</a>
+                    <i class="fa fa-angle-right"></i> <a href="{{route('tesla.trading.about')}}">Tesla Trending</a>
                   </li>
-                 
+
                 </ul>
               </div>
             </div>
@@ -59,22 +58,22 @@
             <div class="w-body-a">
               <ul class="list-unstyled">
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Venezuela</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">Wiring of electrical cabinets</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">China</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">Public lighting</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Hong Kong</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">Fire safety installation</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Argentina</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">Alarm system </a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Singapore</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">Computer and phone networks</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Philippines</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">Video surveillance</a>
                 </li>
               </ul>
             </div>
@@ -83,4 +82,3 @@
       </div>
     </div>
   </section>
- 

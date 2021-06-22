@@ -6,7 +6,7 @@
                     <div class="card">
                         <div class="header">
                             <h2>
-                                List Companies
+                              Add new company 
 
                             </h2>
                             <div class="text-right" >
@@ -29,7 +29,7 @@
                         </div>
                         <div class="body">
 
-                        <form id="form_validation" action="" method="POST">
+                        <form id="form_validation" action="{{route('admin.companies.store')}}" method="POST" enctype="multipart/form-data">
                             {{ csrf_field() }}
                                 <div class="form-group form-float">
                                     <div class="form-line">
@@ -39,32 +39,46 @@
                                 </div>
                                 <div class="form-group form-float">
                                     <div class="form-line">
-                                        <input type="text" class="form-control" name="adress" required>
-                                        <label class="form-label">Adress</label>
+                                        <input type="text" class="form-control" name="fonction" required>
+                                        <label class="form-label">Fonction</label>
                                     </div>
                                 </div>
                                 <div class="form-group form-float">
                                     <div class="form-line">
-                                        <input type="tel" class="form-control" name="tel" required>
-                                        <label class="form-label">Telephone</label>
+                                        <input type="date" class="form-control" name="date_create" required>
                                     </div>
                                 </div>
                                 <div class="form-group form-float">
                                     <div class="form-line">
-                                        <input type="tel" class="form-control" name="domaine" required>
-                                        <label class="form-label">Domaine</label>
+                                        <input type="file" class="form-control" name="photo" required>
+                                       
                                     </div>
+                                </div>
+                               
+                               
+                                <div class="form-group form-float">
+                                <div class="body">
+                                        <textarea class="ckeditor" name="description_fr">
+                                        <h2> about us fr </h2>
+                                        </textarea>
+                           
+                                </div>
                                 </div>
                                 <div class="form-group form-float">
-                                    <div class="form-line">
-                                        <textarea name="description" cols="30" rows="5" class="form-control no-resize" required>comment </textarea>
-                                        <label class="form-label">Description</label>
-                                    </div>
+                                <div class="body">
+                                        <textarea class="ckeditor" name="description_en">
+                                         <h2> about us an </h2>
+                                        </textarea>
+                           
+                                </div>
                                 </div>
 
 
 
-                                <button class="btn btn-primary waves-effect" type="submit">SUBMIT</button>
+
+
+
+                                <button class="btn btn-success waves-effect btn-block" type="submit">Add </button>
                             </form>
 
 

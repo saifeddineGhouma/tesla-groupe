@@ -20,7 +20,9 @@ return [
     'about-us'=>'  <h3 class="title-d">About
     <span class="color-d"></span> -us
     <br>
-  </h3>'
-    
+  </h3>',
+  'clients_opinions'=>'Clients  Opinions'
+
+
 
 ];

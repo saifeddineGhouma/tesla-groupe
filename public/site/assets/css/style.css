@@ -257,7 +257,7 @@ a:hover {
 
 /*------/ Space Padding /------*/
 .section-t8 {
-  padding-top: 8rem;
+  padding-top: 6rem;
 }
 
 @media (max-width: 767px) {
@@ -1105,7 +1105,7 @@ a:hover {
 
 /*------/ Intro Single /------*/
 .intro-single {
-  padding: 12rem 0 3rem;
+  padding: 7rem 0 3rem;
 }
 
 @media (max-width: 767px) {
@@ -1220,8 +1220,11 @@ a:hover {
 .card-shadow {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-}
 
+}
+.img-box-a{
+    max-height: 400px;
+}
 .card-shadow:before {
   content: ' ';
   position: absolute;
@@ -1824,6 +1827,7 @@ a:hover {
 .about-img-box {
   padding-left: 1rem;
   position: relative;
+  max-height: 500px;
 }
 
 @media (min-width: 576px) {

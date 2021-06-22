@@ -1,5 +1,5 @@
  <!-- ======= Intro Section ======= -->
- 
+
  <div class="intro intro-carousel">
     <div id="carousel" class="owl-carousel owl-theme">
       <div class="carousel-item-a intro-item bg-image" style="background-image: url(site/assets/img/slide-1.jpg)">
@@ -10,11 +10,11 @@
               <div class="row">
                 <div class="col-lg-8">
                   <div class="intro-body">
-                    <p class="intro-title-top">3 rue abassin El Menzah 5, 
+                    <p class="intro-title-top">3 rue abassin El Menzah 5,
                       <br> Tunis
                     </p>
                     <h1 class="intro-title mb-4">
-                      <span class="color-b">Tesla </span> 
+                      <span class="color-b">Tesla </span>
                       <br>  Electrical
                     </h1>
                     <p class="intro-subtitle intro-price" >
@@ -35,11 +35,11 @@
               <div class="row">
                 <div class="col-lg-8">
                   <div class="intro-body">
-                    <p class="intro-title-top">5 rue boughazia, 
+                    <p class="intro-title-top">5 rue boughazia,
                       <br> RC, Bureau N°1, Lafayette, Tunis
                     </p>
                     <h1 class="intro-title mb-4">
-                      <span class="color-b">Tesla </span> 
+                      <span class="color-b">Tesla </span>
                       <br>  Consulting
                     </h1>
                     <p class="intro-subtitle intro-price" style="display: none;">
@@ -60,7 +60,7 @@
               <div class="row">
                 <div class="col-lg-8">
                   <div class="intro-body">
-                    <p class="intro-title-top"> zone industrielle, 
+                    <p class="intro-title-top"> zone industrielle,
                       <br> Bizerete
                     </p>
                     <h1 class="intro-title mb-4">
@@ -89,7 +89,7 @@
                       <br> Tunis
                     </p>
                     <h1 class="intro-title mb-4">
-                      <span class="color-b">Tesla </span> 
+                      <span class="color-b">Tesla </span>
                       <br>  Trending
                     </h1>
                     <p class="intro-subtitle intro-price">

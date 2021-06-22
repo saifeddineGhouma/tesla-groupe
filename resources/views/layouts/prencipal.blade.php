@@ -602,6 +602,12 @@
     <script src="../../js/pages/forms/advanced-form-elements.js"></script>
 
     <script src="{{asset('prencipal/js/pages/forms/form-validation.js')}}"></script>
+        <!-- Ckeditor -->
+        <script src="{{asset('prencipal/plugins/ckeditor/ckeditor.js')}}"></script>
+
+<!-- TinyMCE -->
+<script src="{{asset('prencipal/plugins/tinymce/tinymce.js')}}"></script>
+    <script src="{{asset('prencipal/js/pages/forms/editors.js')}}"></script>
 
 
 

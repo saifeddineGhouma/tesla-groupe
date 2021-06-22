@@ -16,7 +16,8 @@ return [
     'home' => 'Accuiel',
     'about' => 'a propos ',
     'contact' => 'contact',
-    'project'=>'projets'
+    'project'=>'projets',
+    'clients_opinions'=>'Avis Clients'
 
 
 ];

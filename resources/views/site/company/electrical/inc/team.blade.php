@@ -5,7 +5,7 @@
           <div class="col-md-12">
             <div class="title-wrap d-flex justify-content-between">
               <div class="title-box">
-                <h2 class="title-a">mes equipes</h2>
+                <h2 class="title-a">@lang('nav.clients_opinions')</h2>
               </div>
             </div>
           </div>
@@ -38,37 +38,7 @@
                     </p>
                   </div>
                 </div>
-                <div class="card-footer-d">
-                  <div class="socials-footer d-flex justify-content-center">
-                    <ul class="list-inline">
-                      <li class="list-inline-item">
-                        <a href="#" class="link-one">
-                          <i class="fa fa-facebook" aria-hidden="true"></i>
-                        </a>
-                      </li>
-                      <li class="list-inline-item">
-                        <a href="#" class="link-one">
-                          <i class="fa fa-twitter" aria-hidden="true"></i>
-                        </a>
-                      </li>
-                      <li class="list-inline-item">
-                        <a href="#" class="link-one">
-                          <i class="fa fa-instagram" aria-hidden="true"></i>
-                        </a>
-                      </li>
-                      <li class="list-inline-item">
-                        <a href="#" class="link-one">
-                          <i class="fa fa-pinterest-p" aria-hidden="true"></i>
-                        </a>
-                      </li>
-                      <li class="list-inline-item">
-                        <a href="#" class="link-one">
-                          <i class="fa fa-dribbble" aria-hidden="true"></i>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
+                
               </div>
             </div>
           </div>
@@ -99,37 +69,7 @@
                     </p>
                   </div>
                 </div>
-                <div class="card-footer-d">
-                  <div class="socials-footer d-flex justify-content-center">
-                    <ul class="list-inline">
-                      <li class="list-inline-item">
-                        <a href="#" class="link-one">
-                          <i class="fa fa-facebook" aria-hidden="true"></i>
-                        </a>
-                      </li>
-                      <li class="list-inline-item">
-                        <a href="#" class="link-one">
-                          <i class="fa fa-twitter" aria-hidden="true"></i>
-                        </a>
-                      </li>
-                      <li class="list-inline-item">
-                        <a href="#" class="link-one">
-                          <i class="fa fa-instagram" aria-hidden="true"></i>
-                        </a>
-                      </li>
-                      <li class="list-inline-item">
-                        <a href="#" class="link-one">
-                          <i class="fa fa-pinterest-p" aria-hidden="true"></i>
-                        </a>
-                      </li>
-                      <li class="list-inline-item">
-                        <a href="#" class="link-one">
-                          <i class="fa fa-dribbble" aria-hidden="true"></i>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
+
               </div>
             </div>
           </div>
@@ -160,37 +100,7 @@
                     </p>
                   </div>
                 </div>
-                <div class="card-footer-d">
-                  <div class="socials-footer d-flex justify-content-center">
-                    <ul class="list-inline">
-                      <li class="list-inline-item">
-                        <a href="#" class="link-one">
-                          <i class="fa fa-facebook" aria-hidden="true"></i>
-                        </a>
-                      </li>
-                      <li class="list-inline-item">
-                        <a href="#" class="link-one">
-                          <i class="fa fa-twitter" aria-hidden="true"></i>
-                        </a>
-                      </li>
-                      <li class="list-inline-item">
-                        <a href="#" class="link-one">
-                          <i class="fa fa-instagram" aria-hidden="true"></i>
-                        </a>
-                      </li>
-                      <li class="list-inline-item">
-                        <a href="#" class="link-one">
-                          <i class="fa fa-pinterest-p" aria-hidden="true"></i>
-                        </a>
-                      </li>
-                      <li class="list-inline-item">
-                        <a href="#" class="link-one">
-                          <i class="fa fa-dribbble" aria-hidden="true"></i>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
+
               </div>
             </div>
           </div>
@@ -198,4 +108,3 @@
       </div>
     </section><!-- End About Section-->
 
- 

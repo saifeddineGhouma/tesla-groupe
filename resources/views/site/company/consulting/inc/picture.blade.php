@@ -30,9 +30,9 @@
                 </div>
                 <p class="color-text-a">
                 @lang('title.tesla_consulting')
-                
+
                 </p>
-                
+
               </div>
             </div>
           </div>
@@ -40,4 +40,3 @@
       </div>
     </section>
 
-  

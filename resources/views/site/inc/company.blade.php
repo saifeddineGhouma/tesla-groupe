@@ -53,7 +53,7 @@
               <div class="card-overlay">
                 <div class="card-header-b">
                   <div class="card-category-b">
-                    <a href="{{route('tesla.trading.about')}}" class="category-b">Trending</a>
+                    <a href="{{route('tesla.trading.about')}}" class="category-b"> Trending</a>
                   </div>
                   <div class="card-title-b">
                     <h2 class="title-2">

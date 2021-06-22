@@ -124,11 +124,11 @@
     <section class="section-about">
       <div class="container">
         <div class="row">
-          
+
           <div class="col-md-12 section-t8">
             <div class="row">
               <div class="col-md-6 col-lg-5">
-                <img src="{{asset('site/assets/img/about-2.jpg')}}" alt="" class="img-fluid">
+                <img src="{{asset('site/assets/img/slide-0.jpg')}}" alt="" class="img-fluid">
               </div>
               <div class="col-lg-2  d-none d-lg-block">
                 <div class="title-vertical d-flex justify-content-start">
@@ -143,7 +143,7 @@
                 <p class="color-text-a">
                 @lang('title.tesla_groupe')
                   </p>
-                
+
               </div>
             </div>
           </div>
@@ -151,8 +151,8 @@
       </div>
     </section>
 
-  
-    
+
+
     <!-- ======= Latest News Section ======= -->
     <section class="section-news section-t8">
       <div class="container">
@@ -162,21 +162,21 @@
               <div class="title-box">
                 <h2 class="title-a">Our Companies</h2>
               </div>
-            
+
             </div>
           </div>
         </div>
-      
+
 
           @include('site.inc.company')
 
       </div>
     </section><!-- End Latest News Section -->
 
-    
 
-  
-   
+
+
+
 
 
     @endsection

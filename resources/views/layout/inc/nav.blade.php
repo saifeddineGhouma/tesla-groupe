@@ -24,7 +24,7 @@
               <a class="dropdown-item" href="{{route('tesla.electrical.about')}}">Tesla Electrical </a>
               <a class="dropdown-item" href="{{route('tesla.consulting.about')}}">Tesla Consulting </a>
               <a class="dropdown-item" href="{{route('tesla.plast.about')}}">Tesla Plastic</a>
-              <a class="dropdown-item" href="{{route('tesla.trading.about')}}">Tesla Trading</a>
+              <a class="dropdown-item" href="{{route('tesla.trading.about')}}"> Tesla Trending</a>
             </div>
           </li>
           <li class="nav-item dropdown">
@@ -35,11 +35,11 @@
               <a class="dropdown-item" href="{{route('tesla.electrical.project')}}">Tesla Electrical </a>
               <a class="dropdown-item" href="{{route('tesla.consulting.project')}}">Tesla Consulting </a>
               <a class="dropdown-item" href="{{route('tesla.plast.project')}}">Tesla Plastic</a>
-              <a class="dropdown-item" href="{{route('tesla.trading.project')}}">Tesla Trading</a>
+              <a class="dropdown-item" href="{{route('tesla.trading.project')}}">Tesla Trending</a>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contact.html">Contact</a>
+            <a class="nav-link" href="{{route('contact.contact')}}">Contact</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

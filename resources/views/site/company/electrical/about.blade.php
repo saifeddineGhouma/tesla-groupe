@@ -2,7 +2,7 @@
 
 
 @section('logo')
-<a class="navbar-brand text-brand" href="index.html">TESLA <span class="color-b">ELECTRICAL</span></a>
+<a class="navbar-brand text-brand" href="#">TESLA <span class="color-b">ELECTRICAL</span></a>
 @endsection
 @section('content')
   @include('site.company.electrical.inc.title')

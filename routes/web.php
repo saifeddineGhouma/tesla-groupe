@@ -19,6 +19,7 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/', 'SiteController@index')->name('site');
+Route::get('/contact', 'ContactController@contact')->name('contact.contact');
 
 //*******electrical company**** */
 Route::get('/tesla-electrical/about','ElectricalController@about')->name('tesla.electrical.about');
@@ -50,7 +51,7 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-/*
+
 Route::name('admin.')
     ->prefix('admin')
     ->namespace('admins')
