@@ -35,7 +35,11 @@ class CompanyController extends Controller
         dd($company);
     //    }
      
-
-
     }
+	
+	function edit($company_id)
+	{
+		$company = Company::find($company_id);
+		return view('admines.companies.edit',['company'=>$company]);
+	}
 }
